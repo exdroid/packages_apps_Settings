@@ -54,7 +54,12 @@
     <string name="notification_light_missed_call_title">Missed call</string>
     <string name="notification_light_voicemail_title">Voicemail</string>
 
-     <!--XD Version-->
-     <string name="xd_version">X-Droid version</string>
-     <string name="xd_version_default">Unknown</string>
+    <!--XD Version-->
+    <string name="xd_version">X-Droid version</string>
+    <string name="xd_version_default">Unknown</string>
+
+    <!-- Development shortcut -->
+    <string name="development_shortcut_title">Development shortcut</string>
+    <string name="development_shortcut_summary">Enable application management shortcuts in recent apps list</string>
+
 </resources>
